@@ -18,3 +18,4 @@ git reset HEAD 文件名  取消已暂存的文件  从暂存区移除相对应�
 git rm -f 文件名
 
 git rm --cached 文件名 
+迭代
