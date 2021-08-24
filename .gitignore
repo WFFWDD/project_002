@@ -1,0 +1,4 @@
+#忽略tex目录下所有的文件
+tex/
+#忽略git命令.txt
+git命令.txt
